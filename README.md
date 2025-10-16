@@ -10,7 +10,7 @@ It includes features to **add**, **edit**, **delete**, and **view** products usi
 - ➕ Add new products through a form  
 - 📝 Edit existing product details  
 - ❌ Delete products from the list  
-- 📋 View all products in a table  
+- 📋 View all products in a cards 
 - 💾 Data stored in MySQL database  
 - ⚙️ Input validation using Laravel validation rules  
 
